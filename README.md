@@ -107,7 +107,7 @@ project/
 ## Screenshots
 
 1. **Login Page:**
-   - Gradient background with a centered login form.
+   - Gradient background with a centered login form. Allows user to enter Username and password
 2. **Registration Page:**
    - Similar to the login page but allows new users to register.
 3. **Dashboard:**
@@ -124,16 +124,11 @@ project/
 
 ---
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## Acknowledgments
 Special thanks to the open-source community for providing resources and tools that made this project possible.
 
 ---
 
 ## Contact
-For any inquiries or issues, feel free to contact the project maintainer at [your-email@example.com].
+For any inquiries or issues, feel free to contact the project maintainer at [yugarakshinigs@gmail.com].
 
